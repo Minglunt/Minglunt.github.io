@@ -1,2 +1,3 @@
-My personal website
-It keeps updating 
+My personal website.
+
+I'll keep updating it. 
