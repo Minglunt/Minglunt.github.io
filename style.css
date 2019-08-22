@@ -10,6 +10,11 @@ body {
     box-sizing: border-box;
 }
 
+a {
+    text-decoration: none;
+    color: #4682B4;
+}
+
 .title{
     background-color: #9bddff;
     color: #4169E1;
